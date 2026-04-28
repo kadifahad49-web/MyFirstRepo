@@ -1,2 +1,4 @@
-# MyFirstRepo
+MyFirstRepo
+
 This is my first GitHub repository for the lab.
+This is an update from GitHub
